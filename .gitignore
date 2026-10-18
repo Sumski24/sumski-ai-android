@@ -1,0 +1,4 @@
+exports/
+platform-tools/
+__pycache__/
+*.pyc

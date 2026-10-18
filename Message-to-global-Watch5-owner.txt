@@ -1,0 +1,11 @@
+Hi! I own the Chinese Xiaomi Watch 5 running HyperOS 3. My phone is set to German, but the watch interface remains in English.
+
+I would like to investigate whether a German interface can be added while keeping the original China firmware and the features I use, including ECG and blood pressure.
+
+Could you help by providing a read-only export from your GLOBAL Xiaomi Watch 5 running Wear OS? We need its system APKs, installed language splits, framework files and any accessible MCU firmware/resource packages to compare the German translations with the Chinese version. Compatibility between Wear OS and HyperOS still needs to be checked.
+
+The attached English guide includes an export tool. It does not require root, modify the watch firmware or collect personal app data or health databases.
+
+If you already have the full global OTA ZIP or its official download link, that would also be very useful.
+
+Thank you for helping!
